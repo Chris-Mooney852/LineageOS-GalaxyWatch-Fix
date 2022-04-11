@@ -2,7 +2,7 @@
 A script to trick certain apps (Galaxy Wearable, Samsung Accessory Service etc) into thinking the phone is not samsung,
 allowing the galaxy watch to be used on LineageOS
 
-# Useage
+# Usage
 If your using this script you should know how to enable dev tools, and have adb installed.
 Both of which are required for these scripts to work
 
